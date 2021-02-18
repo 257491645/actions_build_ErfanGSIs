@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ota-1256119282.file.myqcloud.com/AWM-A0/2019-06-25_1_sdm845_p_mp_ota1_20190430bullhead-ota-eng.buildfarm.zip
-  ROM_NAME: MUIU
+  ROM_URL: https://ip4046188664.mobgslb.tbcache.com/Firmware/Flyme/m6_note/8.0.5.0/cn/20200709154303/b68e83cd/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=1f9efadfd49ef3c202cbb41cfc770bde8dafa4f3093f0d32&ali_redirect_ex_tmining_ts=1613660665&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
